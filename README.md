@@ -1,6 +1,6 @@
 # Chess Game Project
 
-#Link to Repository
+Link to Repository
 This project was done on my university account the link is provided here: https://git.txstate.edu/aym58/JavaChips
 
 ## Overview
