@@ -1,5 +1,8 @@
 # Chess Game Project
 
+#Link to Repository
+This project was done on my university account the link is provided here: https://git.txstate.edu/aym58/JavaChips
+
 ## Overview
 This project is a fully functional chess game developed as part of a class project during Spring 2023. The game was created collaboratively with a partner and serves as a demonstration of object-oriented programming concepts and collaborative software development techniques.
 
